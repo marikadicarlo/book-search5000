@@ -6,7 +6,7 @@
 ![book-search5000]()
 
 # Description
-This portfolio was built with React. It showcases my work and other information to potential clients.
+The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
 ## User Story
 ```
