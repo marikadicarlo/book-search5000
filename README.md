@@ -1,9 +1,9 @@
 # book-search5000
 
-[Click Here Deployed Link](https://marikadicarlo.github.io/react-resume/)
+[Click Here Deployed Link]()
 
 
-![react-resume](/react-resume.jpg)
+![book-search5000]()
 
 # Description
 This portfolio was built with React. It showcases my work and other information to potential clients.
