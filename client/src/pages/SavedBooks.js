@@ -9,11 +9,11 @@ import { QUERY_ME } from '../utils/queries';
 import { REMOVE_BOOK } from '../utils/mutations';
 
 const SavedBooks = () => {
+  // const [userData, setUserData] = useState({});
   const { loading, data } = useQuery(QUERY_ME);
   const [removeBook, {error}] = useMutation(REMOVE_BOOK);
 
   const userData = data?.me || [];
-  // const [userData, setUserData] = useState({});
 
 
   // create function that accepts the book's mongo _id value as param and deletes the book from the database
